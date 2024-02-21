@@ -2,10 +2,10 @@
 simple correlation analysis tool for a given set of data, currently only calculates Pearson's Correlation. 
 
 ## Features
--Calculate correlation matrix
--Identify strong, moderate, and weak correlations
--Visualize correlation results with scatter plots and heatmaps
--Export correlation analysis report
+- Calculate correlation matrix
+- Identify strong, moderate, and weak correlations
+- Visualize correlation results with scatter plots and heatmaps
+- Export correlation analysis report
 
 ## Usage
 1. Install the required dependencies using pip install -r requirements.txt.
